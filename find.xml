@@ -1,0 +1,12 @@
+<application>
+  <component name="FindSettings">
+    <option name="customScope" value="File '…\main.py'" />
+    <option name="defaultScopeName" value="File '…\main.py'" />
+    <option name="SEARCH_SCOPE" value="File '…\main.py'" />
+    <mask>*.css</mask>
+    <mask>*.html</mask>
+    <mask>*.xml</mask>
+    <mask>*.pyw</mask>
+    <mask>*.py</mask>
+  </component>
+</application>
